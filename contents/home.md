@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![harryyangx](https://www.researchgate.net/profile/Xing-Yang-22)](https://scholar.google.com.sg/citations?hl=en&user=Zn0_mOoAAAAJ)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Xing Yang received the Ph.D. degree in agricultural electrification and automation with College of Engineering, Nanjing Agricultural University, Nanjing, 2023. Until 2022, he was a visiting Ph.D. student with the University of Lincoln, Lincoln, U.K. He is currently a Lecturer with Anhui Science and Technology University, Chuzhou, China.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: xingyang[at]ahstu.edu.cn; harryyangx@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+11/2021 - 11/2022 Visiting Scholar, University of Lincoln, College of Engineering, U.K.\
+5/2019 – 12/2023 Ph.D. student, Nanjing Agricultural  University, College of Engineering, Agricultural Big Data and Internet of Things, China\
+9/2015 – 6/2018 Master, Nanjing University of Information Science and Technology, College of Automation, Control Engineering, China
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Abnormal detection, Edge intelligence, Agricultural IoT.
 

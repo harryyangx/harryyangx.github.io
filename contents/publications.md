@@ -1,16 +1,23 @@
-#### Submitted
+#### 第一作者或通讯作者
+#### First author or Corresponding author
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- [1] <strong>Xing Yang<strong>, Lei Shu*, Jianing Chen, Mohamed Amine Ferrag, Jun Wu, Edmond Nurellari and Kai Huang. A Survey on Smart Agriculture: Development Modes, Technologies, and Security and Privacy Challenges, <strong>IEEE/CAA Journal of Automatica Sinica<strong>, vol. 8, no. 2, pp. 273-302, Feb. 2021, doi: 10.1109/JAS.2020.1003536. [[Paper]](https://doi.org/10.1109/JAS.2020.1003536)
 
-#### Published
+- [2] <strong>Xing Yang<strong>, Lei Shu*, Ye Liu, Gerhard Petrus Hancke, Mohamed Amine Ferrag and Kai Huang. Physical Security and Safety of IoT Equipment: A Survey of Recent Advances and Opportunities, <strong>IEEE Transactions on Industrial Informatics<strong>, vol. 18, no. 7, pp. 4319-4330, July 2022, doi: 10.1109/TII.2022.3141408. [[Paper]](https://doi.org/10.1109/TII.2022.3141408)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- [3] <strong>Xing Yang<strong>, Lei Shu*, Kailiang Li, Zhiqiang Huo, Sheng Shu and Edmond Nurellari. SILOS: An Intelligent Fault Detection Scheme for Solar Insecticidal Lamp IoTs with Improved Energy Efficiency, <strong>IEEE Internet of Things Journal<strong>, vol. 10, no. 1, pp. 920-939, 1 Jan.1, 2023, doi: 10.1109/JIOT.2022.3209162. [[Paper]](https://doi.org/10.1109/JIOT.2022.3209162)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- [4] <strong>Xing Yang<strong>, Lei Shu*, Kailiang Li, Zhiqiang Huo and Yu Zhang. SA1D-CNN: A Separable and Attention Based Lightweight Sensor Fault Diagnosis Method for Solar Insecticidal Lamp Internet of Things, <strong>IEEE Open Journal of the Industrial Electronics Society<strong>, vol. 3, pp. 291-303, 2022, doi: 10.1109/OJIES.2022.3172899. [[Paper]](https://doi.org/10.1109/JIOT.2022.3209162)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- [5] <strong>Xing Yang<strong>, Lei Shu*, Kailiang Li Edmond Nurellari, Zhiqiang Huo and Yu Zhang. A Lightweight Fault-Detection Scheme for Resource-Constraints Solar Insecticidal Lamp IoTs, <strong>Sensors<strong>, vol. 23, no. 15, pp. 6672, 2023, doi: https://doi.org/10.3390/s23156672. [[Paper]](https://doi.org/10.3390/s23156672)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- [6] <strong>杨星<strong>, 舒磊*, 黄凯, 李凯亮, 霍志强, 王彦飞, 王心怡, 卢巧玲, 张亚成. 太阳能杀虫灯物联网故障诊断特征分析及潜在挑战[J]. <strong>智慧农业(中英文)<strong>, 2020, 2(2): 11-27. (中文核心) [[Paper]]()
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- [7] <strong>Xing Yang<strong>, Lei Shu*, Kai Huang, Kailiang Li and Heyang Yao. Poster Abstract: Insecticidal Performance Simulation of Solar Insecticidal Lamps Internet of Things Using the Number of Falling Edge Trigger, <strong>IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)<strong>, 2021, pp. 1-2, doi: 10.1109/INFOCOMWKSHPS51825.2021.9484570. [[Paper]](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484570)
+
+[8] Xiaoling Ye, <strong>Xing Yang*<strong>, Xiong Xiong, Yunpei Shen, Man Hao, Rong Gu. A Quality Control Method Based on an Improved Random Forest Algorithm for Surface Air Temperature Observations, <strong>Advances in Meteorology<strong>, 2017, doi: 10.1155/2017/8601296. [[Paper]](https://doi.org/10.1155/2017/8601296)
+
+[9] Xiaoling Ye, <strong>Xing Yang*<strong>, Xiong Xiong, Shuai Yang, Yang Chen. Spatial Quality Control Method for Surface Temperature Observations Based on Multiple Elements, <strong>Earth Sciences Research Journal<strong>, vol. 21, no. 2, pp. 101-107, 2017, doi: 10.15446/esrj.v21n2.65185. [[Paper]](https://doi.org/10.15446/esrj.v21n2.65185)
+
+#### Co-author
 

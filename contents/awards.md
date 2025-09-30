@@ -1,16 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 7/2017, The third prize of East China Division, 12th China Graduate Electronic Design Competition of "Huawei Cup"
 
-- National Scholarship for Graduate Student, 2024.
+- 6/2018, Outstanding Graduates of Nanjing University of Information Science and Technology, Nanjing University of Information Science and Technology
 
-- First-Prize Scholarship (CUMT), 2024.
+- 12/2019, Excellent Professional Master's Thesis in Jiangsu Province, Jiangsu Provincial Academic Degrees Committee
 
-- First-Prize Scholarship (CUMT), 2023.
+- 12/2022, National Scholarship for Doctoral Students, Ministry of Education of the People's Republic of China
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- 11/2025, Outstanding Editor Award, Frontiers in Plant Science–"Sustainable and Intelligent Phytoprotection" section
