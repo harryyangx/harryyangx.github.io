@@ -1,10 +1,5 @@
 
-- 7/2017, The third prize of East China Division, 12th China Graduate Electronic Design Competition of "Huawei Cup"
+#### PI(主持)
 
-- 6/2018, Outstanding Graduates of Nanjing University of Information Science and Technology, Nanjing University of Information Science and Technology
-
-- 12/2019, Excellent Professional Master's Thesis in Jiangsu Province, Jiangsu Provincial Academic Degrees Committee
-
-- 12/2022, National Scholarship for Doctoral Students, Ministry of Education of the People's Republic of China
-
-- 11/2025, Outstanding Editor Award, Frontiers in Plant Science–"Sustainable and Intelligent Phytoprotection" section
+- 1/2025 - 12/2027, Research on low-cost and lightweight fault self-diagnosis method for solar insecticidal lamps based on the Internet of Things, National Natural Science Foundation Youth Fund (C), 300,000 RMB
+- 2025年1月 - 2027年12月，基于物联网太阳能杀虫灯的低成本轻量化故障自诊断方法研究，国际爱自然科学基金青年基金（C类），30万元
