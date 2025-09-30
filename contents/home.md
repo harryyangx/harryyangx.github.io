@@ -1,6 +1,6 @@
 
 
-[![harryyangx](https://www.researchgate.net/profile/Xing-Yang-22)](https://scholar.google.com.sg/citations?hl=en&user=Zn0_mOoAAAAJ)
+[![harryyangx](https://img.shields.io/badge/haryyangx-github-blue?loge=github)](https://scholar.google.com.sg/citations?hl=en&user=Zn0_mOoAAAAJ)
 
 Xing Yang received the Ph.D. degree in agricultural electrification and automation with College of Engineering, Nanjing Agricultural University, Nanjing, 2023. Until 2022, he was a visiting Ph.D. student with the University of Lincoln, Lincoln, U.K. He is currently a Lecturer with Anhui Science and Technology University, Chuzhou, China.
 
