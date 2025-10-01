@@ -1,10 +1,23 @@
+#### Research
+#### 科研
+- Abnormal detection of solar panel and battery on solar insecticidal lamp IoT\
+物联网太阳能杀虫灯的太阳能电池板与电池异常检测
+- Joint monitoring of pests and diseases in tomatoes/peppers\
+番茄/辣椒的病虫害联合监测
+- Continuous monitoring of the growth status of tomatoes/peppers\
+番茄/辣椒的生长状态持续监测
 
-- 7/2017, The third prize of East China Division, 12th China Graduate Electronic Design Competition of "Huawei Cup"
+#### Lesson
+#### 课程
+- Computational methods, pattern recognition and machine learning, databases, agricultural big data\
+计算方法，模式识别与机器学习，数据库，农业大数据
 
-- 6/2018, Outstanding Graduates of Nanjing University of Information Science and Technology, Nanjing University of Information Science and Technology
+#### Work
+#### 工作
+- Application for Master's and Doctoral Programs in Agricultural Engineering\
+农业工程硕士点以及博士点申报
 
-- 12/2019, Excellent Professional Master's Thesis in Jiangsu Province, Jiangsu Provincial Academic Degrees Committee
-
-- 12/2022, National Scholarship for Doctoral Students, Ministry of Education of the People's Republic of China
-
-- 11/2025, Outstanding Editor Award, Frontiers in Plant Science–"Sustainable and Intelligent Phytoprotection" section
+#### Life
+#### 生活
+- Sliming, Swimming\
+减肥，游泳
