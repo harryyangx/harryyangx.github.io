@@ -1,6 +1,5 @@
 
-#### First author or Corresponding author
-#### 第一作者或通讯作者
+#### First author or Corresponding author | 第一作者或通讯作者
 
 - [1] **Xing Yang**, Lei Shu\*, Jianing Chen, Mohamed Amine Ferrag, Jun Wu, Edmond Nurellari and Kai Huang. A Survey on Smart Agriculture: Development Modes, Technologies, and Security and Privacy Challenges, **IEEE/CAA Journal of Automatica Sinica**, vol. 8, no. 2, pp. 273-302, Feb. 2021, doi: 10.1109/JAS.2020.1003536. [[Paper]](https://doi.org/10.1109/JAS.2020.1003536) (SCIE, JCR Q1, IF=19.2, Highly cited paper) (中科院一区TOP， 高被引论文)
 
@@ -26,7 +25,7 @@
 
 - [12] Xiaoling Ye, **Xing Yang**\*, Xiong Xiong, Shuai Yang, Yang Chen. Spatial Quality Control Method for Surface Temperature Observations Based on Multiple Elements, **Earth Sciences Research Journal**, vol. 21, no. 2, pp. 101-107, 2017, doi: 10.15446/esrj.v21n2.65185. [[Paper]](https://doi.org/10.15446/esrj.v21n2.65185) (SCIE, JCR Q4, IF=0.5)（中科院四区）
 
-#### Co-author
+#### Co-author | 合作论文
 
 - [1] Ferrag, Mohamed Amine, Lei Shu, **Xing Yang**, Abdelouahid Derhab, and Leandros Maglaras. Security and privacy for green IoT-based agriculture: Review, blockchain solutions, and challenges, **IEEE Access**, vol. 8, pp. 32031-32053, 2020, doi: 10.1109/ACCESS.2020.2973178. [[Paper]](https://doi.org/10.1109/ACCESS) (SCIE, JCR Q2, IF=3.6, Highly cited paper)（中科院四区， 高被引论文）
 
