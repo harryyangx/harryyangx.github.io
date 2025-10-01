@@ -28,3 +28,43 @@
 
 #### Co-author
 
+- [1] Ferrag, Mohamed Amine, Lei Shu, **Xing Yang**, Abdelouahid Derhab, and Leandros Maglaras. Security and privacy for green IoT-based agriculture: Review, blockchain solutions, and challenges, **IEEE Access**, vol. 8, pp. 32031-32053, 2020, doi: 10.1109/ACCESS.2020.2973178. [[Paper]](https://doi.org/10.1109/ACCESS) (SCIE, JCR Q2, IF=3.6, Highly cited paper)（中科院四区， 高被引论文）
+
+- [2] Ferrag, Mohamed Amine, Lei Shu, Othmane Friha, and **Xing Yang**. Cyber security intrusion detection for agriculture 4.0: Machine learning-based solutions, datasets, and future directions, **IEEE/CAA Journal of Automatica Sinica**, vol. 9, no. 3, pp. 407-436, 2021, doi: 10.1109/JAS.2021.1004344 [[Paper]](https://doi.org/10.1109/JAS.2021.1004344) (SCIE, JCR Q1, IF=19.2) (中科院一区TOP)
+
+- [3] Huang, Kai, Kailiang Li, Lei Shu, **Xing Yang**, Timothy Gordon, and Xiaochan Wang. High voltage discharge exhibits severe effect on ZigBee-based device in solar insecticidal lamps internet of things, **IEEE Wireless Communications**, vol. 27, no. 6, pp. 140-145, 2020, doi: 10.1109/MWC.001.2000082. [[Paper]](https://doi.org/10.1109/MWC.001.2000082) (SCIE, JCR Q1, IF=10.9) (中科院二区)
+
+- [4] Huang, Kai, Lei Shu, Kailiang Li, Yuyu Feng, **Xing Yang**, Ye Liu, Fan Yang, and Yan Zhu. A novel accurate insecticidal counting method based on solar insecticidal lamp using machine learning, **IEEE Transactions on Consumer Electronics**, vol. 69, no. 4, pp. 1045-1054, 2023, doi: 10.1109/TCE.2023.3297723. [[Paper]](https://doi.org/10.1109/TCE.2023.3297723) (SCIE, JCR Q1, IF=10.9) (中科院二区)
+
+- [5] Huang, Kai, Kailiang Li, Lei Shu, and **Xing Yang**. Demo abstract: High voltage discharge exhibits severe effect on ZigBee-based device in solar insecticidal lamps internet of things, **In IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)**, pp. 1266-1267. IEEE, 2020, doi: 10.1109/INFOCOMWKSHPS50562.2020.9162736. [[Paper]](https://doi.org/10.1109/INFOCOMWKSHPS50562.2020.9162736) (EI, CCF A)
+
+- [6] Li, Yuan, Bangsong Du, Lin Luo, Yusheng Luo, **Xing Yang**, Ye Liu, and Lei Shu. A scheme for pest-dense area localization with solar insecticidal lamps Internet of Things under asymmetric links, **IEEE Transactions on AgriFood Electronics**, vol. 1, no. 2, pp. 71-85, 2023, doi: 10.1109/TAFE.2023.3286699. [[Paper]](https://doi.org/10.1109/TAFE.2023.3286699)
+
+- [7] Yang, Fan, Lei Shu, Na Duan, **Xing Yang**, and Gerhard Petrus Hancke. Complete area ϵ-probability coverage in solar insecticidal lamps Internet of Things, **IEEE Internet of Things Journal**, vol. 10, no. 24, pp. 22764-22774, 2023, doi: 10.1109/JIOT.2023.3305030. [[Paper]](https://doi.org/10.1109/JIOT.2023.3305030) (SCIE, JCR Q1， IF=8.9) （中科院小类一区TOP）
+
+- [8] Guo, Xuanchen, Lei Shu, **Xing Yang**, Edmond Nurellari, Kailiang Li, Bangsong Du, and Heyang Yao. Two-hop energy consumption balanced routing algorithm for solar insecticidal lamp Internet of Things, **Sensors**, vol. 22, no. 1, pp. 154, 2021, doi: 10.3390/s22010154. [[Paper]](https://doi.org/10.3390/s22010154) (SCIE, JCR Q2, IF=3.5) (中科院三区)
+
+- [9] Jiang, Zitian, Lei Shu, **Xing Yang**, Kai Huang, Heyang Yao, and Qin Su. An Insecticidal Counting Method Based on Discharge Sound and Discharge Voltage of Solar Insecticidal Lamp, **IEEE Transactions on Consumer Electronics**, vol. 70, no. 3, pp. 6376-6391, 2024, doi: 10.1109/TCE.2024.3425615. [[Paper]](https://doi.org/10.1109/TCE.2024.3425615) (SCIE, JCR Q1, IF=10.9) (中科院二区)
+
+- [10] Su, Qin, Lei Shu, Qingsong Zhao, **Xing Yang**, Zitian Jian, Jiarui Fang, and Huihsin Chin. Brief Analysis of False Data Injection Attacks Based on Two Data Modalities in IoTs-based Solar Insecticidal Lamps, **In 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)**, pp. 1-6. IEEE, 2024, doi: 10.1109/INDIN58382.2024.10774384. [[Paper]](https://doi.org/10.1109/INDIN58382.2024.10774384) (EI)
+
+- [11] Jiang, Zitian, Lei Shu, **Xing Yang**, Kai Huang, Kailiang Li, and Wei Lin. An Insecticidal Counting Method Based on Insecticidal Discharge Sound Signal Processing, **In 2023 IEEE 2nd Industrial Electronics Society Annual On-Line Conference (ONCON)**, pp. 1-6. IEEE, 2023, doi: 10.1109/ONCON60463.2023.10430839. [[Paper]](https://doi.org/10.1109/ONCON60463.2023.10430839) (EI)
+
+- [12] Cao, Tingting, Fan Yang, Chensiyu Fan, Ru Han, **Xing Yang**, and Lei Shu. A Survey of Three-Dimensional Wireless Sensor Networks Deployment Techniques, **Journal of Sensor and Actuator Networks**, vol. 14, no. 5, pp. 94, 2025, doi: 10.3390/jsan14050094. [[Paper]](https://doi.org/10.3390/jsan14050094) (ESCI, JCR Q2, IF=4.2) (中科院四区)
+
+- [13] Jin, Naiyun, Tingting Hu, Lei Shu, Hecang Zang, Kailiang Li, Ru Han, and **Xing Yang**. A Crop Growth Information Collection System Based on a Solar Insecticidal Lamp, **Electronics**, vol. 14, no. 2, pp. 370, 2025, doi: 10.3390/electronics14020370. [[Paper]](https://doi.org/10.3390/electronics14020370) (SCIE, JCR Q2, IF=2.6) (中科院四区)
+
+- [14] Chen, Xin, Hongxiang Xue, **Xing Yang**, and Qi’an Ding. Cable Fault Detection Based on Improved Deep Convolutional Neural Network, **Recent Advances in Computer Science and Communications**, 2024, doi: 10.2174/0126662558353718241212141028. [[Paper]](https://doi.org/10.2174/0126662558353718241212141028) (EI)
+
+- [15] Chen, Mingying, Ye Liu, Lei Shu, Kailiang Li, **Xing Yang**, and Fan Yang. SILGAN: Generative Adversarial Networks for Multimedia Data Compression in Solar Insecticidal Lamps Internet of Things, **In IECON 2023-49th Annual Conference of the IEEE Industrial Electronics Society**, pp. 1-6. IEEE, 2023, doi: 10.1109/IECON51785.2023.10311876. [[Paper]](https://doi.org/10.1109/IECON51785.2023.10311876) (EI)
+
+- [16] 黄凯, 舒磊, 李凯亮, **杨星**, 朱艳, 汪小旵, 苏勤. 太阳能杀虫灯物联网节点的防盗防破坏设计及展望. **智慧农业**, vol. 3, no. 1, pp. 129, 2021, doi: 10.12133/j.smartag.2021.3.1.202102-SA034. [[Paper]](https://doi.org/10.12133/j.smartag.2021.3.1.202102-SA034) (中文核心)
+
+- [17] 杨帆, 任守纲, 徐焕良, 孙元昊, **杨星**. 基于比特估计的RFID标签数量估计算法, **计算机工程与科学**, vol. 42, no. 03, pp. 449, 2020. [[Paper]](http://joces.nudt.edu.cn/CN/abstract/abstract16295.shtml) (中文核心)
+
+- [18] 叶小岭, 陈洋, 杨帅, **杨星**, 阚亚进. 基于EEMD-CES的单站地面气温资料质量控制方法研究, **大气科学学报**, vol. 42, no. 3, pp. 390-398, 2019, doi: 10.13878/j.cnki.dqkxxb.20171205001. [[Paper]](https://doi.org/10.13878/j.cnki.dqkxxb.20171205001) (中文核心)
+
+- [19] 叶小岭, 杨帅, 陈洋, **杨星**, 阚亚进. 一种基于空间相关性和B样条曲面拟合的地面气温质量控制算法, **大气科学学报**, vol. 42, no. 4, pp. 513-520, 2019, doi: 10.13878/j.cnki.dqkxxb.20180703002. [[Paper]](https://doi.org/10.13878/j.cnki.dqkxxb.20180703002) (中文核心)
+
+- [20] 叶小岭, 顾荣, 邓华, 陈浩, **杨星**. 基于WRF模式和PSO-LSSVM的风电场短期风速订正, **电力系统保护与控制**, vol. 45, no. 22, pp. 48-54, 2017, doi: 10．7667／PSPC161827. [[Paper]](https://doi.org/10．7667／PSPC161827) (中文核心)
+
