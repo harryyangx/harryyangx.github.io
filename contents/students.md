@@ -10,7 +10,7 @@ Publications | 发表论文\
 ##### 2025
 - Xinsheng Zhou | 周鑫晟\
 Research interests: Reliability; Multi modal data fusion; new energy\
-研究方向：可靠性；多模态数据融合；新能源\
+研究方向：可靠性；多模态数据融合；新能源
 
 #### Undergraduate student | 本科生
 ##### 2024
