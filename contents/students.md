@@ -15,6 +15,9 @@ Research interests: Reliability; Multi modal data fusion; new energy\
 #### Undergraduate student | 本科生
 ##### 2024
 - Hongye Fang | 方弘烨
+研究方向：异常检测；光伏\
+Publications | 发表论文\
+[1] Xing Yang\*, Hongye Fang, Fan Yang, Kailiang Li, Ru Han and Tongjie Li.  A Lightweight Detector with Hybrid Pooling and Checkerboard Attention for Solar Panel Anomalies, **iScience**, vol. 29, no. 3, pp. 115106, 2026, doi: 10.1016/j.isci.2026.115106. [[Paper]](https://doi.org/10.1016/j.isci.2026.115106) (SCIE, JCR Q1， IF=4.1) （中科院二区）
 - Guangzhen He | 何广振
 - Hongxuan Cheng | 程洪轩
 - Yuyang Fan | 樊宇阳
