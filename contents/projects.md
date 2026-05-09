@@ -9,6 +9,9 @@
 - 9/2024 - 8/2027, Research on lightweight fault detection method for solar insecticidal lamps based on the Internet of Things, **Talent Introduction Project**, 300,000 RMB\
 2024年9月 - 2027年8月，基于物联网的太阳能杀虫灯轻量化故障检测算法研究，**人才引进项目**，30万元
 
+- 3/2026 - 12/2026, Research and development of intelligent detection technology for insect monitoring equipment, 40,000 RMB\
+2026年3月 - 2026年12月，虫情监测装备智能化检测技术研发，40万元
+
 ##### Teaching and Research Projects | 教研项目
 
 ##### Industry university research projects | 产学研项目

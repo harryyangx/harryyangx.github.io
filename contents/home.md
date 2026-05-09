@@ -19,7 +19,7 @@ Email: xingyang@ahstu.edu.cn; harryyangx@gmail.com
 
 #### Work | 工作经历
 12/2023 - Present, Lectuer, Intelligent Manufacturing College, Anhui Science and Technology University.\
-12/2023 - 目前, 讲师, 智能制造学院, 安徽科技学院.\
+12/2023 - 目前, 讲师, 智能制造学院, 安徽科技工程大学.\
 11/2017 – 2/2018, Data Mining Engineer (Internship), Ping'an Science and Technology (Shenzhen) Co., Ltd.\
 11/2017 – 2/2018, 数据挖掘工程师(实习), 平安科技有限公司(深圳)\
 7/2018 – 1/2019, Data Analysis Engineer, Beijing Tianrun New Energy Investment Co., Ltd.\
