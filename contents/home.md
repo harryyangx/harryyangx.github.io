@@ -3,7 +3,7 @@
 [![harryyangx](https://img.shields.io/badge/haryyangx-github-blue?loge=github)](https://scholar.google.com.sg/citations?hl=en&user=Zn0_mOoAAAAJ)
 
 Xing Yang received the Ph.D. degree in agricultural electrification and automation with College of Engineering, Nanjing Agricultural University, Nanjing, 2023. Until 2022, he was a visiting Ph.D. student with the University of Lincoln, Lincoln, U.K. He is currently a Lecturer with Anhui Science and Technology University, Chuzhou, China.\
-杨星于2023年自南京农业大学工学院获农业电气化与自动化专业博士学位。2021-2022年，他曾是英国林肯大学联合培养博士生。他现在就职于安徽科技学院，任讲师职位。
+杨星于2023年自南京农业大学工学院获农业电气化与自动化专业博士学位。2021-2022年，他曾是英国林肯大学联合培养博士生。他现在就职于安徽科技工程大学，任讲师职位。
 
 #### Contact | 联系方式
 
@@ -19,7 +19,7 @@ Email: xingyang@ahstu.edu.cn; harryyangx@gmail.com
 
 #### Work | 工作经历
 12/2023 - Present, Lectuer, Intelligent Manufacturing College, Anhui Science and Technology University.\
-12/2023 - 目前, 讲师, 智能制造学院, 安徽科技工程大学.\
+12/2023 - 目前, 讲师, 人工智能学院, 安徽科技工程大学.\
 11/2017 – 2/2018, Data Mining Engineer (Internship), Ping'an Science and Technology (Shenzhen) Co., Ltd.\
 11/2017 – 2/2018, 数据挖掘工程师(实习), 平安科技有限公司(深圳)\
 7/2018 – 1/2019, Data Analysis Engineer, Beijing Tianrun New Energy Investment Co., Ltd.\
