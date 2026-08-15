@@ -10,5 +10,6 @@
 - IEEE/CAA Journal of Automatica Sinica, Since 2021
 - Frontiers in Plant Science, Since 2022
 #### Activitaty | 活动
+- Invited speaker, 2026.08.11-2026.08.13, Research on low cost and lightweight fault diagnosis method of solar insecticidal lamps Internet of Things, 2026 CCF Digital Agriculture Branch Annual Meeting and 4th CCF Digital Agriculture Conference. [[Link]](https://ccf.org.cn/2026CCFDA/news_d_3178)
 - Invited speaker, 2025.11.15-2025.11.16, Fault detection of solar insecticidal lamp Internet of Things, The 1st International Conference on Sustainable and Intelligent Phytoprotection (ICSIP 2025). [[Link]](http://nljrc.njau.edu.cn/icsip2025/)
 - Poster, 2021.05.20, Poster Abstract: Insecticidal Performance Simulation of Solar Insecticidal Lamps Internet of Things Using the Number of Falling Edge Trigger, IEEE International Conference on Computer Communications (INFOCOM 2021).

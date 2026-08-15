@@ -15,3 +15,6 @@
 
 - 11/2025, Outstanding Editor Award, Frontiers in Plant Science–"Sustainable and Intelligent Phytoprotection" section\
 2025年11月，优秀编辑奖，Frontiers in Plant Science–"Sustainable and Intelligent Phytoprotection"专栏
+
+- 08/2026, Outstanding Editor Award, Frontiers in Plant Science–"Sustainable and Intelligent Phytoprotection" section\
+2026年08月，优秀编辑奖，Frontiers in Plant Science–"Sustainable and Intelligent Phytoprotection"专栏
