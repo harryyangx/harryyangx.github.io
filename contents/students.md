@@ -10,7 +10,14 @@ Publications | 发表论文\
 ##### 2025
 - Xinsheng Zhou | 周鑫晟\
 Research interests: Reliability; Multi modal data fusion; new energy\
-研究方向：可靠性；多模态数据融合；新能源
+研究方向：可靠性；多模态数据融合；新能源 \
+Publications | 发表论文\
+[1] Xinsheng Zhou, Xing Yang\*, Zhengjie Wang, Lei Shu, Kailiang Li, Tuoyu Yang, Lusheng Yuan, and Tongjie Li. Signal-Image-Level Multimodal Fusion Network for Fault Diagnosis of Photovoltaic Panels in Solar Insecticidal Lamps, **Agriculture**, vol. 16, no. 13, pp. 1394, 2026. doi: 10.3390/agriculture16131394. [[Paper]](https://doi.org/10.3390/agriculture16131394) (SCIE, JCR Q1, IF=4.5) (中科院二区)
+
+##### 2026
+- Wenfei Huang | 黄文飞\
+Research interests: Reliability; Intelligent control; Vegetable growth status monitoring\
+研究方向：可靠性；智能控制；蔬菜生长状态监测
 
 #### Undergraduate student | 本科生
 ##### 2024
