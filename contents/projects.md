@@ -14,7 +14,13 @@
 
 ##### Teaching and Research Projects | 教研项目
 
-##### Industry university research projects | 产学研项目
+- 10/2026 - 9/2028, Research on the mechanism of transforming scientific research achievements into curriculum resources under the integration of industry and education: taking pattern recognition and machine learning courses as examples, Research Project on Education and Teaching Reform\
+10/2026 - 9/2028, 产教融合下科研成果向课程资源转化机制研究——以模式识别与机器学习课程为例，教育教学改革研究项目
+
+- 10/2026 - 9/2028, Agricultural big data, Research Project on Planning Textbook\
+10/2026 - 9/2028, 农业大数据, 规划教材项目
+
+##### Industrial cooperation projects | 产学研项目
 - 7/2024 - 12/2024, Research and development of topology fault diagnosis method for flexible DC pulse fiber optic connection, 29,800 RMB\
 2024年7月 - 2024年12月，柔性直流脉冲光纤连接拓扑故障诊断方法研发，2.98万元
 
