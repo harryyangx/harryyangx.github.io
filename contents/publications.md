@@ -11,7 +11,7 @@
 - [7] **Xing Yang**\*, Zhengjie Wang, Xinsheng Zhou, Lei Shu\*, and Kailiang Li. Cross-Node Fault Diagnosis of Solar Insecticidal Lamp IoT Equipment for Reliable Precision Pest Monitoring Using a Diagnosability-Aware Health Baseline, **Agriculture**, vol. 16, no. 18, pp. 2036, 2026. doi: 10.3390/agriculture16182036. [\[Paper\]](https://www.mdpi.com/2077-0472/16/18/2036) (SCIE, JCR Q1, IF=4.5) (中科院二区)
 - [8] **Xing Yang**, Zhengjie Wang, Lei Shu*, Fan Yang, Xuanchen Guo, and Xiaoyuan Jing. A Survey on Fault Detection of Solar Insecticidal Lamp Internet of Things: Recent Advance, Challenge, and Countermeasure, **Journal of Sensor and Actuator Networks**, vol. 15, no. 1, pp. 11, 2026, doi: 10.3390/jsan15010011. [\[Paper\]](https://doi.org/10.3390/jsan15010011) (ESCI, JCR Q2, IF=4.799) (中科院四区，新锐三区)
 - [9] Zhengjie Wang, **Xing Yang**\*, Xinsheng Zhou, Xuanchen Guo. Open-set fault diagnosis for solar insecticidal lamp IoT systems using adaptive prototypes, **Intelligence \& Robotics**, vol. 6, no. 4, pp. 843-67, 2026, doi: 10.20517/ir.2026.37. [\[Paper\]](https://dx.doi.org/10.20517/ir.2026.37) (ESCI, JCR Q2, IF=3.898) (中科院四区)
-- [10] Guning Zuo, Hongxiang Xue\*, **Xing Yang**\*, Xuanchen Guo. Validation-Selected Ensemble Inference for Pig Behavior Detection, **Recent Advances in Computer Science and Communication**, 2026, doi: 10.2174/0126662558537326261030111810. (EI)
+- [10] Guning Zuo, Hongxiang Xue\*, **Xing Yang**\*, Xuanchen Guo. Validation-Selected Ensemble Inference for Pig Behavior Detection, **Recent Advances in Computer Science and Communication**, 2026, doi: 10.2174/0126662558537326261030111810. [\[Paper\]](https://www.benthamscience.com/article/159595) (EI)
 
 ##### 2025
 
